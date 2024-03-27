@@ -1,6 +1,6 @@
 - Hi, I’m @VH305
 - I’m a PhD student at the Universtiy of Bath in the Economics Department. 
-- I’m currently working on Heterogenous Agent Models, at attempting to!
+- I’m currently working on Heterogenous Agent Models.
 - Files will include drafts of my work, codes and other stuff (to be determined at a future date) that I am working on.
 - My email: vh305@bath.ac.uk
 
